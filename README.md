@@ -24,5 +24,7 @@ Developed by:
 
 ### This was built for a Discrete Mathematics course project
 - Do not expect any further updates to this
-- Not too useful in a real context as this requires knowing the two primes to begin decrypting the message (spoiler alert: thats the hard part)
+- Not too useful in a real context as this requires knowing the two primes to begin decrypting the message
+
+(**spoiler alert: thats the hard part**)
 
