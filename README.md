@@ -19,8 +19,7 @@ This project is a lightweight Java-based implementation of a basic RSA encryptio
 
 Developed by:
 
-- [@bu3lii](https://github.com/bu3lii)
-- [@devZiyad](https://github.com/devZiyad)
+- [@bu3lii](https://github.com/bu3lii) and [@devZiyad](https://github.com/devZiyad)
 
 ### This was built for a Discrete Mathematics course project
 - Do not expect any further updates to this
